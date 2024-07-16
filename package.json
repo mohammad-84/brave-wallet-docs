@@ -15,7 +15,7 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "2.2.0",
+    "@docusaurus/core": "2.4.3",
     "@docusaurus/preset-classic": "2.2.0",
     "@svgr/webpack": "6.5.1",
     "clsx": "1.2.1",
